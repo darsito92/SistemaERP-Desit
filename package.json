@@ -1,0 +1,14 @@
+{
+  "name": "sistema-desit",
+  "version": "1.0.0",
+  "description": "Sistema inventario y venta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "erp"
+  ],
+  "author": "Diego Sepulveda Toledo",
+  "license": "ISC"
+}
